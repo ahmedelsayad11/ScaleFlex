@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ScaleFlex/static/css/main.5a926b4a.css",
+    "main.js": "/ScaleFlex/static/js/main.b97175a7.js",
+    "index.html": "/ScaleFlex/index.html",
+    "main.5a926b4a.css.map": "/ScaleFlex/static/css/main.5a926b4a.css.map",
+    "main.b97175a7.js.map": "/ScaleFlex/static/js/main.b97175a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a926b4a.css",
+    "static/js/main.b97175a7.js"
+  ]
+}
